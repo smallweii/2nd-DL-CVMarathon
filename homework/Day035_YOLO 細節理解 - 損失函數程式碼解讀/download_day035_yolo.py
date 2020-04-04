@@ -34,6 +34,6 @@ def save_response_content(response, destination):
                 
 
 print('Dowloading.!')
-download_file_from_google_drive('1pQ6DRlMCMa7I9gWDLcpCsvy_Gz7fWllZ', 'yolo.zip')
+download_file_from_google_drive('1pQ6DRlMCMa7I9gWDLcpCsvy_Gz7fWllZ', 'day035_yolo.zip')
 
 #os.system('unzip matlab.zip -d dataset')
